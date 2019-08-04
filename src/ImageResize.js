@@ -1,8 +1,8 @@
 import defaultsDeep from 'lodash/defaultsDeep';
 import DefaultOptions from './DefaultOptions';
 import { DisplaySize } from './modules/DisplaySize';
-import { Toolbar } from './modules/Toolbar';
 import { Resize } from './modules/Resize';
+import { Toolbar } from './modules/Toolbar';
 
 const knownModules = { DisplaySize, Toolbar, Resize };
 

@@ -1,5 +1,10 @@
 # Changelog
 
+## v3.0.1 - Auguest 4, 2019
+
+- Upgrade package dependencies
+- Remove console in production build
+
 ## v3.0.0 - April 9, 2017
 
 - Position drag handles relative to editor, not document
