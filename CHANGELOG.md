@@ -4,6 +4,7 @@
 
 - Upgrade package dependencies
 - Remove console in production build
+- Add custom class
 
 ## v3.0.0 - April 9, 2017
 
